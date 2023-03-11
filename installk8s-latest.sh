@@ -1,5 +1,13 @@
 #/bin/bash
 
+
+echo "\n################################################################"
+echo "#                                                              #"
+echo "#                       ***OpqTech***                          #"
+echo "#                  Kubernetes Installation                     #"
+echo "#                                                              #"
+echo "################################################################"
+
 echo "     Running script with $(whoami)"
 
 echo "     STEP 1: Disabling Swap"
